@@ -1,4 +1,4 @@
-## 👩🏻‍💻Beatriz Araújo
+## 👩🏻‍💻Beatriz Cavalcante
 
 Me chamo Beatriz Araújo, tenho 20 anos e moro em Caruaru-PE. Em 2025, dei início à minha jornada acadêmica no curso de **Análise e Desenvolvimento de Sistemas** na Unifavip Wyden e estou me desenvolvendo para me tornar uma **Dev Front-End**. Atualmente, foco em **HTML, CSS, JavaScript e Python**, sempre buscando aprender e criar projetos que unam funcionalidade e design. Gosto de manter a mente aberta para explorar diferentes áreas da tecnologia.
 
